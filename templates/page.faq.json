@@ -1,0 +1,79 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "q1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "truck",
+            "row_content": "<p>Orders are processed within 1-2 business days. Standard shipping typically takes 5-10 business days, depending on your location.</p>"
+          }
+        },
+        "q2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "map_pin",
+            "row_content": "<p>Once your order ships, you'll receive a confirmation email with a tracking number. You can also check your order status on our Track Your Order page.</p>"
+          }
+        },
+        "q3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "return",
+            "row_content": "<p>We offer a 30-day return policy on all unused items in their original packaging. Contact us to start a return.</p>"
+          }
+        },
+        "q4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What payment methods do you accept?",
+            "icon": "lock",
+            "row_content": "<p>We accept all major credit cards, as well as other secure payment methods available at checkout.</p>"
+          }
+        },
+        "q5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "icon": "plane",
+            "row_content": "<p>Currently we ship within the regions shown at checkout. If your country isn't listed, please contact us and we'll do our best to help.</p>"
+          }
+        },
+        "q6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I get in touch with support?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Visit our Contact Us page and send us a message — we typically respond within 24 hours on business days.</p>"
+          }
+        }
+      },
+      "block_order": ["q1", "q2", "q3", "q4", "q5", "q6"],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": ["main", "faq"]
+}

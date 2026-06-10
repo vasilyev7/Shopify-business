@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_623387554812527134": {
+      "settings": {
+        "checksum": "b5465df5b867c56a5cd880b57203ed9380225c15daa1535b691ae2e95fbdb077_1_1_1_0__1",
+        "ggI57VsEqme_label": "Shop organic products",
+        "ggLF9SbPCQF_alt": "Alt Image",
+        "ggLF9SbPCQF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_7_0bd287c3-b0d2-4357-a563-36d15649fb39.png",
+        "ggLF9SbPCQF_title": "Image Title",
+        "ggVmQtOdNBG_text": "<p>All the products are organic, cruelty-free and carefully sourced. The perfect blend of natural ingredients illuminates your skin while enhancing your already beautiful complexion.</p>",
+        "ggbTnINwK9n_text": "<p>The secret of pure beauty from nature</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-623387554812527134"
+    },
+    "gp_section_623387554829304350": {
+      "settings": {
+        "checksum": "4d7b9ea0e5115b2cb749719908477292a06b66a0a1cdafc81bb47f858713be43_1_1_1_0__1",
+        "gg57Y8Fj2R2_text": "<p>As a destination for the consciously-minded, we have always been passionate about bringing the best products that are good for you and for the planet. Your wellbeing, and that of the planet, are at the heart of everything we do.</p>",
+        "gg7fsY3Znzx_text": "<p>Sustainability at our core</p>",
+        "gg8_OvIV9kE_alt": "Alt Image",
+        "gg8_OvIV9kE_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_10_244035f1-a1e0-4f77-9a9f-4e9264a3666a.jpg",
+        "gg8_OvIV9kE_title": "Image Title",
+        "ggMKPh-2v66_label": "Learn more"
+      },
+      "type": "gp-section-623387554829304350"
+    },
+    "gp_section_623387555131294536": {
+      "settings": {
+        "checksum": "af8936e3876f63aadc1371426405933d8389aff5f459ea8c325d16589b673b14_1_1_1_0__1",
+        "ggQoK0_UtKV_alt": "Alt Image",
+        "ggQoK0_UtKV_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_16.jpg",
+        "ggQoK0_UtKV_title": "Image Title",
+        "ggWQ1poIMys_label": "Shop our product",
+        "ggn5vNGlosa_text": "<p>The key to healthy glowing skin</p>",
+        "ggzMZCwnBkv_text": "<p>Our philosophy is centered around supporting the skin's natural functions so it can work its best. We combine the purest botanical ingredients with cutting-edge technology and research to create our product lines.</p>"
+      },
+      "type": "gp-section-623387555131294536"
+    },
+    "gp_section_623387555131294676": {
+      "settings": {
+        "checksum": "ad68df5130773dade041f1bc4dfff21f1b9051adbd869f9c44abb97ca8276b94_1_1_1_0__1",
+        "gg2YlE5hP32_text": "<p>Cruelty-free &amp; vegan</p>",
+        "gg6fTqI5LB9_text": "<p>Recyclable packaging</p>",
+        "gg9NBSgGkXI_alt": "Alt Image",
+        "gg9NBSgGkXI_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_9_d28b7936-6fb7-47af-96e4-89aade8d08fc.jpg",
+        "gg9NBSgGkXI_title": "Image Title",
+        "ggCypQ0HMwD_text": "<p>Plant-based ingredients</p>",
+        "ggLGfvZY2tF_alt": "Alt Image",
+        "ggLGfvZY2tF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_2_81176a02-a744-4add-86f3-c7cb5f1d8b82.png",
+        "ggLGfvZY2tF_title": "Image Title",
+        "ggNfsVQcvtc_text": "<p>We're passionate about bringing out the most innovative and natural skincare products.</p>",
+        "ggNpVnlhAXW_alt": "Alt Image",
+        "ggNpVnlhAXW_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_3_c2fccdcc-0baa-47d6-b9c3-4a2598e1400b.png",
+        "ggNpVnlhAXW_title": "Image Title",
+        "ggOMR7KP2P9_text": "<p>Gentle on the skin</p>",
+        "ggWmfbvN_fV_alt": "Alt Image",
+        "ggWmfbvN_fV_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_5_c7ad0ac4-7507-4cca-a127-8c716e770ce3.png",
+        "ggWmfbvN_fV_title": "Image Title",
+        "gggImV8vEIC_alt": "Alt Image",
+        "gggImV8vEIC_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_4_630b0b2b-7d13-491d-ac15-4ef4ab272f5e.png",
+        "gggImV8vEIC_title": "Image Title",
+        "gghnLgDhp2R_text": "<p>Fall in love with healthy glowing skin</p>",
+        "ggi04eXp8XP_text": "<p>Suitable for all skin types</p>",
+        "ggiCtmoiLZS_alt": "Alt Image",
+        "ggiCtmoiLZS_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_7_5b5a8aab-97cd-403a-8aa7-6806858baa1c.png",
+        "ggiCtmoiLZS_title": "Image Title",
+        "ggqEZJkV5OY_alt": "Alt Image",
+        "ggqEZJkV5OY_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_6_f87aa1d7-439b-418d-9e98-99d8a37e3dfd.png",
+        "ggqEZJkV5OY_title": "Image Title",
+        "ggrIDYsf0jG_text": "<p>Clean &amp; safe beauty</p>",
+        "ggvBqGAZkly_label": "Shop now"
+      },
+      "type": "gp-section-623387555131294676"
+    },
+    "gp_section_623387555299066614": {
+      "settings": {
+        "checksum": "4549aedcddce75e6c03e3457acc4bf8a1abe74529902b4eab5f21a7b9525ec72_1_1_1_0__1",
+        "ggJRZNwztV6_text": "<p>Enjoy summer with healthy glowing skin!</p>",
+        "ggV_y4ElNp1_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_8_fbe1eb84-6570-4ebd-827a-e5fbb37f1dfd.jpg",
+        "ggV_y4ElNp1_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggV_y4ElNp1_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_9_e81495b7-31df-4bd5-817a-172b0a8a1755.jpg",
+        "ggV_y4ElNp1_background_mobile_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggWc5VrCiph_text": "<p>We've created the best collection for your skin this summer. You can now fulfill your skincare needs and enjoy your favorite products with just one order!</p>",
+        "gghjMlcV_Dz_label": "Get it now",
+        "gghrCiSK9do_text": "<p>20% OFF for weekend only</p>"
+      },
+      "type": "gp-section-623387555299066614"
+    },
+    "gp_section_623387555483616212": {
+      "settings": {
+        "checksum": "d205c289529eaef446ad535a7fd54302c78c0cb56ae9d229e4ed6c3f1f470b84_1_1_1_0__1",
+        "ggBrTqo-pgj_alt": "Alt Image",
+        "ggBrTqo-pgj_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_10_556cf1cb-2d6e-47b8-9bbb-06f4c46ff741.png",
+        "ggBrTqo-pgj_title": "Image Title",
+        "ggNtnwg6AXE_text": "<p>Safe &amp; secure payment</p>",
+        "ggbXlaQl57V_text": "<p>Natural Ingredients&nbsp;</p>",
+        "ggeNRgPW3eQ_text": "<p>Free delivery from $89</p>",
+        "ggfwyB3eK6p_text": "<p>30-day free return</p>",
+        "gghmLJlWzd6_alt": "Alt Image",
+        "gghmLJlWzd6_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_9_7c142e46-b9f8-4387-a14e-33ff45616dce.png",
+        "gghmLJlWzd6_title": "Image Title",
+        "ggl8e3WPO8__alt": "Alt Image",
+        "ggl8e3WPO8__srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_11.png",
+        "ggl8e3WPO8__title": "Image Title",
+        "ggtG0XCMlSV_alt": "Alt Image",
+        "ggtG0XCMlSV_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_8_c536f36a-e0df-453c-b467-4799652bdf05.png",
+        "ggtG0XCMlSV_title": "Image Title"
+      },
+      "type": "gp-section-623387555483616212"
+    },
+    "gp_section_623387555500393288": {
+      "settings": {
+        "checksum": "9473c88cde980b80d18e0fcef38face70b2bec87c2b3d877ebe008bb68278c76_1_1_1_0__1",
+        "gg0EfGvQwUg_label": "Follow us on Instagram",
+        "ggBmUrpvaSZ_alt": "Alt Image",
+        "ggBmUrpvaSZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_24.jpg",
+        "ggBmUrpvaSZ_title": "Image Title",
+        "ggC1QLBbsrI_text": "<p>Follow us on <strong>@gemlab.beauty</strong> and use the hashtag #gemlab to be featured</p>",
+        "ggC82YM04NK_alt": "Alt Image",
+        "ggC82YM04NK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_22.jpg",
+        "ggC82YM04NK_title": "Image Title",
+        "ggGZYfLrwgE_text": "<p>Join our community</p>",
+        "ggH7LBxf6lr_alt": "Alt Image",
+        "ggH7LBxf6lr_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_20.jpg",
+        "ggH7LBxf6lr_title": "Image Title",
+        "ggU1KZCDN02_alt": "Alt Image",
+        "ggU1KZCDN02_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_19.jpg",
+        "ggU1KZCDN02_title": "Image Title",
+        "ggUAhaYQrqm_alt": "Alt Image",
+        "ggUAhaYQrqm_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_21.jpg",
+        "ggUAhaYQrqm_title": "Image Title",
+        "ggWcz8OFETI_alt": "Alt Image",
+        "ggWcz8OFETI_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_23.jpg",
+        "ggWcz8OFETI_title": "Image Title",
+        "ggz_HgZOVW5_alt": "Alt Image",
+        "ggz_HgZOVW5_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_18.jpg",
+        "ggz_HgZOVW5_title": "Image Title"
+      },
+      "type": "gp-section-623387555500393288"
+    },
+    "gp_section_623387555752051230": {
+      "settings": {
+        "checksum": "110389d4d28a10db6d3695124521306b0faf415300c95bea1b0437e6216e44f3_1_1_1_0__1",
+        "gg-ZhPRBQ8c_text": "<p>\"Products with 100% natural extracts bring a feeling of freshness and refreshment, making skin more healthy and glowing. A great choice for all skin types!\"</p>",
+        "gg-owUOsZk0_alt": "Alt Image",
+        "gg-owUOsZk0_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_14_9449fcec-1c2d-419e-bf6f-698edc0287f8.jpg",
+        "gg-owUOsZk0_title": "Image Title",
+        "gg3Iz-8G7dQ_text": "<p>\"Gemlab cleasning gel made my skin feel clean and amazing straight away after use. There's no irritation even on my sensitive skin. Thank you for this wonderful product!\"</p>",
+        "gg4lAUM_Jw4_alt": "Alt Image",
+        "gg4lAUM_Jw4_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_13_440542b0-2133-4720-bd43-c0733d617391.jpg",
+        "gg4lAUM_Jw4_title": "Image Title",
+        "ggD8hHJC1O2_text": "<p>Savannah Nguyen</p>",
+        "ggEsLSMay3N_alt": "Alt Image",
+        "ggEsLSMay3N_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_11_74c8bdef-dc85-466b-9a54-a7ae1e82dfae.jpg",
+        "ggEsLSMay3N_title": "Image Title",
+        "ggQL3_sqJcB_text": "<p>Real reviews from real customers</p>",
+        "ggf2ae6R4ws_text": "<p>Eleanor Pena</p>",
+        "ggixZWEiYwL_text": "<p>\"Gemlab is an industry leader when it comes to luxurious, natural and effective skincare products. Highly recommend this beauty brand!\"</p>",
+        "ggl767JTkOA_text": "<p>Wade Warren</p>",
+        "ggrsOSy0581_alt": "Alt Image",
+        "ggrsOSy0581_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_12_b5fe9e79-0f0e-413d-b68d-e9c9b4cd151e.jpg",
+        "ggrsOSy0581_title": "Image Title"
+      },
+      "type": "gp-section-623387555752051230"
+    },
+    "gp_section_623387555768828744": {
+      "settings": {
+        "checksum": "08a3fac19b408d4a450791bd96a30ab8167b579c322a9f4ddc0b4f77724cc15c_1_1_1_0__1",
+        "gg4KKeq4303_label": "Terms & Conditions",
+        "gg5FZSy5Wqb_alt": "Alt Image",
+        "gg5FZSy5Wqb_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_25.jpg",
+        "gg5FZSy5Wqb_title": "Image Title",
+        "ggK9kklDYfP_alt": "Alt Image",
+        "ggK9kklDYfP_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_12.png",
+        "ggK9kklDYfP_title": "Image Title",
+        "ggKAEjCUxry_label": "Returns Policy",
+        "ggNnYIW42cK_alt": "Alt Image",
+        "ggNnYIW42cK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_26.jpg",
+        "ggNnYIW42cK_title": "Image Title",
+        "ggO4v1dN004_errorMessage": "Can’t send email. Please try again later.",
+        "ggO4v1dN004_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggYkRVUbOfD_placeholder": "Email address",
+        "ggbEMRRqcdb_label": "FAQs",
+        "ggdKNnbhcfy_text": "<p>Be the first to hear about our new launches, exclusive offers and expert beauty tips.</p>",
+        "ggesM7wfBEO_alt": "Alt Image",
+        "ggesM7wfBEO_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_27.jpg",
+        "ggesM7wfBEO_title": "Image Title",
+        "ggh8BFm5n1h_label": "About Us",
+        "gglYJlWoSD-_label": "Subscribe",
+        "ggqyzZq-4Xz_label": "Contact Us",
+        "ggteAhPb2rD_text": "<p>Copyright © 2022 GemPages. All Rights Reserved.</p>",
+        "ggwR5_c4JWn_text": "<p>Become a Gemlab Insider!</p>",
+        "ggzIt7S1UuD_alt": "Alt Image",
+        "ggzIt7S1UuD_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_28.jpg",
+        "ggzIt7S1UuD_title": "Image Title",
+        "ggzJE_NGunh_text": "<p>Follow us on</p>"
+      },
+      "type": "gp-section-623387555768828744"
+    },
+    "gp_section_623387555802383316": {
+      "settings": {
+        "checksum": "f6d983a876f5070803bf9bc997ebbc0e9858ab217aa7b289cea8b6851bf3a1fa_1_1_1_0__1",
+        "gg4sxFe2S1w_text": "<p>(124)</p>",
+        "gg657sc-bb4_label": "View all products",
+        "ggBddY8QPy-_text": "<p>(124)</p>",
+        "ggTZ-aXRZ2E_label": "MOST POPULAR",
+        "ggZejf0CPHV_text": "<p>(124)</p>",
+        "gged9Azf91a_text": "<p>Our featured products</p>",
+        "ggoGUK91cT7_label": "View all products",
+        "ggtWBYg870e_label": "EXCLUSIVE PRICE",
+        "ggtuhJh_weK_label": "EXCLUSIVE PRICE",
+        "ggvXSO3ydh9_label": "NEW",
+        "ggxKP5gRuQk_text": "<p>(124)</p>"
+      },
+      "type": "gp-section-623387555802383316"
+    }
+  },
+  "order": [
+    "gp_section_623387554812527134",
+    "gp_section_623387554829304350",
+    "gp_section_623387555131294676",
+    "gp_section_623387555131294536",
+    "gp_section_623387555802383316",
+    "gp_section_623387555299066614",
+    "gp_section_623387555752051230",
+    "gp_section_623387555483616212",
+    "gp_section_623387555500393288",
+    "gp_section_623387555768828744"
+  ]
+}
