@@ -37,6 +37,23 @@
         padding-bottom: {{ section.settings.padding_bottom }}px;
       }
     }
+
+    .product-breadcrumb {
+      font-size: 1.2rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin-bottom: 2rem;
+    }
+
+    .product-breadcrumb a {
+      color: currentColor;
+      text-decoration: none;
+    }
+
+    .product-breadcrumb a:hover {
+      text-decoration: underline;
+    }
   {%- endstyle -%}
 
   <script src="{{ 'product-info.js' | asset_url }}" defer="defer"></script>
@@ -74,6 +91,15 @@
 
   {% assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' %}
   <div class="page-width">
+    <nav class="product-breadcrumb" aria-label="breadcrumb">
+      <a href="{{ routes.root_url }}">Home</a>
+      {%- if collection -%}
+        <span aria-hidden="true"> / </span>
+        <a href="{{ collection.url }}">{{ collection.title }}</a>
+      {%- endif -%}
+      <span aria-hidden="true"> / </span>
+      <span aria-current="page">{{ product.title }}</span>
+    </nav>
     <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
       <div class="grid__item product__media-wrapper">
         {% render 'product-media-gallery', variant_images: variant_images %}

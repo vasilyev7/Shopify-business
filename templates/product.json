@@ -45,6 +45,19 @@
             "show_gift_card_recipient": true
           }
         },
+        "complementary_products": {
+          "type": "complementary",
+          "settings": {
+            "heading": "You may also like",
+            "make_collapsible_row": false,
+            "icon": "none",
+            "product_list_limit": 3,
+            "products_per_page": 3,
+            "pagination_style": "dots",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
+        },
         "trust_badges": {
           "type": "icon-with-text",
           "settings": {
@@ -107,6 +120,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "complementary_products",
         "trust_badges",
         "description",
         "spec_tab",
